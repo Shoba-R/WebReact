@@ -1,0 +1,31 @@
+.contenedorAbout{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: 20px;
+    width: 65%;
+    margin: 0 auto;
+    
+}
+
+.imagen{
+    width: 350px;
+}
+
+.contenedorTextoAbout{
+   width: 50%;
+    
+}
+
+.botonAbout{
+    width: 150px;
+    padding: 5px 5px; 
+    
+    border:  2px solid black;
+    color: white;
+    background-color: black;
+}
+
+.botonAbout i{
+    color: white;
+}

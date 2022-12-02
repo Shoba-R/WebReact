@@ -1,0 +1,22 @@
+.contenedorSkills{
+    width: 65%;
+    margin: 0 auto;
+   
+    
+}
+
+.contenedorSkills h2,.contenedorSkills p
+{
+    text-align: center;
+}
+
+.contenedorImagenes{
+    display: flex;
+}
+.cuatroImagenes{
+    width: 200px;
+    margin-left: 15px;
+    
+   
+   
+}
