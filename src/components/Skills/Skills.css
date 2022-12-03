@@ -1,6 +1,7 @@
 .contenedorSkills{
     width: 65%;
     margin: 0 auto;
+    padding:70px 0;
    
     
 }
@@ -15,8 +16,5 @@
 }
 .cuatroImagenes{
     width: 200px;
-    margin-left: 15px;
-    
-   
-   
+    margin-left: 15px;  
 }

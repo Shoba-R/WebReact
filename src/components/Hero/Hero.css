@@ -17,3 +17,9 @@
         border:  2px solid black;
         background-color: transparent;
     }
+    .btn1:hover{
+        cursor:pointer;
+        background-color: black;
+        color:white;
+        transition: 0.3s ease-in-out;
+    }

@@ -1,0 +1,11 @@
+.contenedorThink{
+    background-color: aquamarine;
+}
+
+.mensaje{
+    font-size:1.5em ;
+    text-align: center;
+    letter-spacing: 0.4em;
+    -webkit-text-stroke: 0.7px black;
+    color: transparent;
+}
